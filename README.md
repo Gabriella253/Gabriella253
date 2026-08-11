@@ -1,7 +1,7 @@
 # HeLLo! 
 My name is Gabriella, and Im a Brazilian Computer Science student currently learning and doing my best to grow in this huge and sometimes scary tech world. Feel free to take a look around my profile. Tips and advice are always welcome!
 
-Currently trying: Java | Python | Git | Computer Science Fundamentals | IA
+Currently trying: Java | Python | Git | Computer Science Fundamentals | AI
 
 ## Contact:
 Linked-in: https://www.linkedin.com/in/gabriellargc/
