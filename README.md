@@ -5,7 +5,7 @@ Currently trying: Java | Python | Git | Computer Science Fundamentals | IA
 
 ## Contact:
 Linked-in: https://www.linkedin.com/in/gabriellargc/
-E-mail: gbdp3300@gmail.com
+\nE-mail: gbdp3300@gmail.com
 
 ---
 
@@ -18,4 +18,4 @@ Atualmente tentando: Java | Python | Git | Computer Science Fundamentals | IA
 
 ## Contato:
 Linked-in: https://www.linkedin.com/in/gabriellargc/
-E-mail: gbdp3300@gmail.com
+\nE-mail: gbdp3300@gmail.com
